@@ -44,7 +44,9 @@
   <ItemGroup>
     <Compile Include="BankAccount.cs" />
     <Compile Include="IBankAccount.cs" />
+    <Compile Include="IDate.cs" />
     <Compile Include="IO\IWrite.cs" />
+    <Compile Include="Movement.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
